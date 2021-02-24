@@ -8,6 +8,6 @@ The timecourse is upsampled at every 0.0112 s, where TR=1.12s. See supplementary
 
 Feature_breakdown_to_share.m
 
-A sample code to compute feature breakdown at each ROI using first-level results. Requires Matlab.
+A sample code to compute feature breakdown at each ROI using first-level results. Tested on Matlab2018b and SPM12. 
 
 
